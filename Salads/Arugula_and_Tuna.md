@@ -1,5 +1,7 @@
 # Arugula & Tuna Salad
 
+![](Arugula_Tuna_Salad.jpg)
+
 ## Ingredients
 
  * Arugula
