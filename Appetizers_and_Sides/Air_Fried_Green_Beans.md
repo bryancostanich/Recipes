@@ -1,5 +1,7 @@
 # Air Fried Green Beans
 
+![](Air_Fried_Green_Beans.jpg)
+
 ## Ingredients
  
 * Green Beans
