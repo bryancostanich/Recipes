@@ -17,3 +17,7 @@ Food. To make. To eat. To share.
 ## [Sandwiches](Sandwiches)
 
 * [Chipotle Chicken](Sandwiches/Chipotle_Chicken/readme.md)
+
+## [Drinks](Drinks)
+
+* [Eggnog](Drinks/Eggnog/readme.md)
