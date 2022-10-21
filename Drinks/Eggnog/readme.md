@@ -4,13 +4,13 @@
 
 ## Ingredients
 
-(12) Eggs
-(1/3 Cup) Sugar
-(1 Pint) Cream
-(1 Pint) Whole Milk
-(2 Tsp) Cinnamon
-(1 Tsp) Nutmeg
-(Dash) Fresh Ground Cardamom
+* (12) Eggs
+* (1/3 Cup) Sugar
+* (1 Pint) Cream
+* (1 Pint) Whole Milk
+* (2 Tsp) Cinnamon
+* (1 Tsp) Nutmeg
+* (Dash) Fresh Ground Cardamom
 
 ## Instructs (Easy Way)
 
