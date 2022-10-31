@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* [Spicy Olive Oil Marinade](../Marinades/Spicy_Olive_Oil.md)
+* [Spicy Olive Oil Marinade](../../Marinades/Spicy_Chili_Olive_Oil/readme.md)
 * (2) Whole Chicken Breasts
 
 ## Instructs
