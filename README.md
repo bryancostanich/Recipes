@@ -5,6 +5,7 @@ Food. To make. To eat. To share.
 ## [Appetizers and Sides](Appetizers_and_Sides)
 
 * [Air-fried Green Beans](Appetizers_and_Sides/Air_Fried_Green_Beans/readme.md)
+* [Pico de Gallo](Appetizers_and_Sides/Pico_de_Gallo/readme.md)
 
 ## [Mains](Mains)
 
