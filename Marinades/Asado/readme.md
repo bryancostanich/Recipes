@@ -13,8 +13,9 @@ Mexican marinade for taco meats and such.
 * (1/3 bunch) Cilantro (Chopped)
 * (2 Tsp) Smoked paprika
 * (1/3 Cup) Red wine vinegar
-* Pepper
+* (2 Tsp) Fresh Ground Pepper
 * (2 Tbsp) Chopped Garlic
+* (1/2) Jalapeno (or more)
 
 ## Instructs
 
