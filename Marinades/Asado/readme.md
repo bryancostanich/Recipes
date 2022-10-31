@@ -1,16 +1,20 @@
 # Asado (Chicken/Pollo, Elk, etc.)
 
-(3/4 Cup) Soy sauce
-(3/4 Cup) Orange juice
-(3 limes) Lime juice
-(2 Tbsp) Sesame Oil
-(1 TBsp) Ground red chili
-(1 Tsp) Cayenne
-(1/3 bunch) Cilantro (Chopped)
-(2 Tsp) Smoked paprika
-(1/3 Cup) Red wine vinegar
-Pepper
-(2 Tbsp) Chopped Garlic
+Mexican marinade for taco meats and such.
+
+## Ingredients
+
+* (3/4 Cup) Soy sauce
+* (3/4 Cup) Orange juice
+* (3 limes) Lime juice
+* (2 Tbsp) Sesame Oil
+* (1 TBsp) Ground red chili
+* (1 Tsp) Cayenne
+* (1/3 bunch) Cilantro (Chopped)
+* (2 Tsp) Smoked paprika
+* (1/3 Cup) Red wine vinegar
+* Pepper
+* (2 Tbsp) Chopped Garlic
 
 ## Instructs
 
