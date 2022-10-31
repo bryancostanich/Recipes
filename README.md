@@ -19,6 +19,10 @@ Food. To make. To eat. To share.
 
 * [Chipotle Chicken](Sandwiches/Chipotle_Chicken/readme.md)
 
+## [Sauces](Sauces)
+
+* [Garlic Chipotely Aioli](Sauces/Garlic_Chipotle_Aioli)
+
 ## [Marinades](Marinades)
 
 * [Asado](Marinades/Asado/readme.md)
