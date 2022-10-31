@@ -25,7 +25,7 @@ Food. To make. To eat. To share.
 
 ## [Sauces](Sauces)
 
-* [Garlic Chipotely Aioli](Sauces/Garlic_Chipotle_Aioli)
+* [Garlic Chipotle Aioli](Sauces/Garlic_Chipotle_Aioli)
 
 ## [Marinades](Marinades)
 
