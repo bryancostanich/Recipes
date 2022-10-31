@@ -8,6 +8,6 @@
 
 ## Instructs
 
-* Mix mayo and garlic in a glass bowl
-* Microwave for 30s
-* Add Chipotle, mix
+1. Mix mayo and garlic in a glass bowl
+2. Microwave for 30s
+3. Add Chipotle, mix
