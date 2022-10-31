@@ -6,11 +6,13 @@ Food. To make. To eat. To share.
 
 * [Air-fried Green Beans](Appetizers_and_Sides/Air_Fried_Green_Beans/readme.md)
 * [Garlic Croutons](Appetizers_and_Sides/Garlic_Croutons/readme.md)
+* [Guacamole](Appetizers_and_Sides/Guacamole/readme.md)
 * [Pico de Gallo](Appetizers_and_Sides/Pico_de_Gallo/readme.md)
 
 ## [Mains](Mains)
 
 * [Spicy Chili Roasted Chicken Breast](Mains/Spicy_Chili_Roasted_Chicked_Breast/readme.md)
+* [Tacos](Mains/Tacos/readme.md)
 
 ## [Salads](Salads)
 
