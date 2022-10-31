@@ -11,6 +11,7 @@ Originally made with worcestire for umami, not anchovies, I prefer both.
 * [Caesar's Dressing](../Dressings/Caesar/readme.md)
 * [Garlic Croutons](../../Appetizers_and_Sides/Garlic_Croutons/readme.md)
 * Fresh paremsan
+* Meat to top (optional)
 
 ## Instructs
 
@@ -20,7 +21,8 @@ Originally made with worcestire for umami, not anchovies, I prefer both.
 4. Optionally add sliced tomatoes.
 5. Microplane fresh parmesan onto the salad.
 6. Crack fresh pepper over top.
-7. Toss some croutons on top.
+7. Optional, top with [roasted chicken breast](../../Mains/Spicy_Chili_Roasted_Chicked_Breast/readme.md), sautéd shrimp, or fresh dungeness crab.
+8. Toss some croutons on top.
 
 ## Misc. Notes
 
