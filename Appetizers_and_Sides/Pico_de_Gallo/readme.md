@@ -15,9 +15,9 @@ Fresh salsa for tacos or tortilla chips.
 
 ## Instructs
 
-* Chop the onion and tomatoes, finely mince the garlic, then mix everything together in a bowl. 
-* Squeeze lime juice in, grind some salt and mix up. 
-* Give the salt a moment to mix with the liquids then taste. Add salt as necessary.
+1. Chop the onion and tomatoes, finely mince the garlic, then mix everything together in a bowl. 
+2. Squeeze lime juice in, grind some salt and mix up. 
+3. Give the salt a moment to mix with the liquids then taste. Add salt as necessary.
 
 ## Misc. Tips
 
