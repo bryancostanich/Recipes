@@ -18,6 +18,11 @@ Food. To make. To eat. To share.
 
 * [Chipotle Chicken](Sandwiches/Chipotle_Chicken/readme.md)
 
+## [Marinades](Marinades)
+
+* [Asado](Marinades/Asado/readme.md)
+* [Spicy Chili Olive Oil](Marinades/Spicy_Chili_Olive_Oil/readme.md)
+
 ## [Drinks](Drinks)
 
 * [Eggnog](Drinks/Eggnog/readme.md)
