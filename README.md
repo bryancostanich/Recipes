@@ -5,6 +5,7 @@ Food. To make. To eat. To share.
 ## [Appetizers and Sides](Appetizers_and_Sides)
 
 * [Air-fried Green Beans](Appetizers_and_Sides/Air_Fried_Green_Beans/readme.md)
+* [Garlic Croutons](Appetizers_and_Sides/Garlic_Croutons/readme.md)
 * [Pico de Gallo](Appetizers_and_Sides/Pico_de_Gallo/readme.md)
 
 ## [Mains](Mains)
@@ -14,6 +15,7 @@ Food. To make. To eat. To share.
 ## [Salads](Salads)
 
 * [Arugula and Tuna](Salads/Arugula_and_Tuna/readme.md)
+* [Caesar Salad](Salads/Caesar/readme.md)
 
 ## [Sandwiches](Sandwiches)
 
