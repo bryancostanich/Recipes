@@ -2,7 +2,7 @@
 
 [Invented by Caesar Cardini in 1927 @ Caesar's Hotel, Tijuana.](https://www.hotelcaesars.com.mx/en/caesars-salad/) There's a yearly Caesar`s Salad Festival that takes place on Revolución Avenue between 4th and 5th streets every June.
 
-Originally made wtih worcestire for umami, not anchovies, I prefer both.
+Originally made with worcestire for umami, not anchovies, I prefer both.
 
 ## Ingredients
 
