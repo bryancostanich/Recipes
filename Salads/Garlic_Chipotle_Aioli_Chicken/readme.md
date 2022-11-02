@@ -6,7 +6,7 @@
 
 * Romaine (or mixed greens)
 * [Garlic Chipotle Sauce/Dressing](/Sauces/Garlic_Chipotle_Aioli/readme.md)
-# [Spicy Roasted Chicken Breast](/Mains/Spicy_Chili_Roasted_Chicked_Breast/readme.md)
+* [Spicy Roasted Chicken Breast](/Mains/Spicy_Chili_Roasted_Chicked_Breast/readme.md)
 * [Garlic Croutons (Optional)](../../Appetizers_and_Sides/Garlic_Croutons/readme.md)
 
 ## Instructs
