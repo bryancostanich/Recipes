@@ -1,5 +1,7 @@
 # Garlic Chipotle Aioli
 
+![](Garlic_Chipotle_Aioli.jpg)
+
 ## Ingredients
 
 * (1/2 Cup) Vegenaise (or mayo)
