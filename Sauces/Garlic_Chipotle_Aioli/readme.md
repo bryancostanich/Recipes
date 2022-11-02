@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-* (1/2 Cup) Vegenaise (or mayo)
+* (1/3 Cup) Vegenaise (or mayo)
 * (3 large cloves) Garlic, finely minced
 * (2 Tsp) [Tia Lupita Chipotle](https://tialupitafoods.com/products/chipotle-hot-sauce)
 
