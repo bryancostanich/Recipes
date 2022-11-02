@@ -18,6 +18,7 @@ Food. To make. To eat. To share.
 
 * [Arugula and Tuna](Salads/Arugula_and_Tuna/readme.md)
 * [Caesar Salad](Salads/Caesar/readme.md)
+* [Garlic Chipotle Aioli](Salads/Garlic_Chipotle_Aioli_Chicken/readme.md)
 
 ## [Sandwiches](Sandwiches)
 
