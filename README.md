@@ -36,3 +36,10 @@ Food. To make. To eat. To share.
 ## [Drinks](Drinks)
 
 * [Eggnog](Drinks/Eggnog/readme.md)
+
+## [Desserts](Desserts)
+
+* [Ice-Cream](Desserts/Ice_Cream/readme.md)
+    * [Sesame](Desserts/Ice_Cream/Sesame/readme.md)
+    * [Vanilla](Desserts/Ice_Cream/Vanilla/readme.md)
+    * [Coffee](Desserts/Ice_Cream/Coffee/readme.md)

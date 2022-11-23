@@ -1,5 +1,7 @@
 # Egg Yolks
 
+![Alt text](Separating_Egg_Yolks.jpg)
+
 To separate the yolks from whites: 
 
 1. crack an egg in half. 
