@@ -19,6 +19,8 @@
 7. Mix for 15-20 minutes.
 8. Place in containers and freeze until ready to eat.
 
+## Variations
 
-
-
+* [Coffee](Coffee/readme.md)
+* [Sesame](Sesame/readme.md)
+* [Vanilla](Vanilla/readme.md)
