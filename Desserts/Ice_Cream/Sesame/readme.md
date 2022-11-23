@@ -1,5 +1,7 @@
 # Sesame Ice Cream
 
+![Picture of sesame ice-cream showing dark flecks of ground sesame and a beautiful texture.](Sesame_Ice-Cream.jpg)
+
 ## Ingredients
 
 * (1/3 cup) coarsely ground black sesame.
