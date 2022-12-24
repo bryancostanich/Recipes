@@ -22,7 +22,7 @@ Pairs well with Rum, Brandy, or Whiskey. Add alcohol before blending.
 
 ## Variation - Old-Fashioned Way
 
-This variation uses the egg whites as a froty topping.
+This variation uses the egg whites as a frothy topping.
 
 1. Separate egg yolks and whites.
 2. Beat the whites until they stiffen, then work in about a third of the sugar.
