@@ -13,6 +13,7 @@ Food. To make. To eat. To share.
 
 * [Spicy Chili Roasted Chicken Breast](Mains/Spicy_Chili_Roasted_Chicked_Breast/readme.md)
 * [Tacos](Mains/Tacos/readme.md)
+* [Baja Fish Tacos](Mains/Baja_Fish_Tacos/readme.md)
 
 ## [Salads](Salads)
 
