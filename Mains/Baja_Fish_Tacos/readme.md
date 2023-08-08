@@ -11,7 +11,7 @@ Note: made with air fryer.
 
 ### Other
 
-* [Baja Cabbage Slaw](Baja_Cabbage_Slaw.md)
+* [Baja Cabbage Slaw](../../Salads/Baja_Cabbage_Slaw/readme.md)
 * [Chipotle Baja Sauce](../../Sauces/Chipotle_Baja_Sauce/readme.md)
 * (1/2 Cup) Crumbled Queso Fresco or Queso Seco
 * (40-80) Street-Taco size tortillas
