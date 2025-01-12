@@ -10,5 +10,7 @@
 
 ## Instructs
 
-1. Mix together.
+1. Put half the vegenaise and all the garlic in a microwave safe bowl and stir.
+2. Microwave for 30 seconds, stir, and microwave for another 30 seconds.
+3. Add the rest of the ingrediens and mix well.
 2. Enjoy in [Baja Fish Tacos](../../Mains/Baja_Fish_Tacos/readme.md)
