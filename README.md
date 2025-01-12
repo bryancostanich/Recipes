@@ -29,6 +29,7 @@ Food. To make. To eat. To share.
 ## [Sauces](Sauces)
 
 * [Garlic Chipotle Aioli](Sauces/Garlic_Chipotle_Aioli)
+* [Thai Peanut Sauce](/Sauces/Thai_Peanut_Sauce)
 
 ## [Marinades](Marinades)
 
