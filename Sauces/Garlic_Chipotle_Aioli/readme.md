@@ -10,6 +10,6 @@
 
 ## Instructs
 
-1. Mix mayo and garlic in a glass bowl
-2. Microwave for 30s
+1. Put half the vegenaise and all the garlic in a microwave safe bowl and stir.
+2. Microwave for 30 seconds, stir, and microwave for another 30 seconds.
 3. Add Chipotle, mix
