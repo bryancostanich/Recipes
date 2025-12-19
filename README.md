@@ -49,4 +49,4 @@ Food. To make. To eat. To share.
 * [Pies](Desserts/Pies)
     * [Apple](Desserts/Pies/Fruit_Pies/Apple_Pie)
 * [Muffins](Desserts/Muffins)
-    * [Blueberry Cornbread](Desserts/Muffins/Blueberry_Cornbread)
+    * [Blueberry Cornbread](Desserts/Muffins/Blueberry_Cornbread_Muffins)
